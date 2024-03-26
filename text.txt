@@ -1,0 +1,24 @@
+
+
+1. You must GITHUB A/C
+2. Sign to streamlit web app
+3. Install Git desktop >>>>>>> 
+
+3. Create app
+4. We will create a repo  GITHUB
+
+
+5. We push  our project in thAt repo acc
+
+     1. git init 
+    2. git add .
+    3. git commit -m "message"
+    4. git remote add origin #####https
+    4. git push -u origin master
+    
+    # git pull origin master --allow-unrelated-histories  (if you want to pull from a  repo)
+
+
+
+
+6. Deployment
